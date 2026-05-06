@@ -1,0 +1,10 @@
+# Site-level overrides for the landscape theme
+
+menu:
+  Home: /
+  About: /about
+  Archives: /archives
+
+links:
+  github: https://github.com/WhatsFish
+  linkedin: https://www.linkedin.com/in/haoyang-li-921b53202/
