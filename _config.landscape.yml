@@ -8,3 +8,7 @@ menu:
 links:
   github: https://github.com/WhatsFish
   linkedin: https://www.linkedin.com/in/haoyang-li-921b53202/
+
+# Move sidebar (categories/tags/tagcloud) below the article so the
+# content can use the full column width on wider screens.
+sidebar: bottom
