@@ -12,3 +12,7 @@ links:
 # Move sidebar (categories/tags/tagcloud) below the article so the
 # content can use the full column width on wider screens.
 sidebar: bottom
+
+# Default theme path was /favicon.png and the file didn't exist (hard 404
+# in the browser tab). Override with the SVG ✍️ favicon.
+favicon: /favicon.svg
